@@ -1,7 +1,10 @@
+#bodyStyle{
+style="background-image: radial-gradient(circle at 43.84% -20.44%, #feffa0 0, #efffa0 6.25%, #dfffa0 12.5%, #cdffa2 18.75%, #b9ffa4 25%, #a3fda7 31.25%, #89faab 37.5%, #6af6af 43.75%, #3cf2b5 50%, #00edbc 56.25%, #00e9c5 62.5%, #00e4cf 68.75%, #00e0da 75%, #00dce5 81.25%, #00d8f2 87.5%, #00d5fe 93.75%, #00d1ff 100%);"
+}
+
 #menu li{
 	padding: 15px;
 	display: inline;
-	background-color:#33CEFF;
 	font-family:Arial;
 	font-size: 16px;
 	width:2000px;
@@ -22,7 +25,6 @@
 #superior{
 	vertical-align:middle;
 	align: center;
-	background-color:orange;
 }
 #p_principal{
 	color:black;
