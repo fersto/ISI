@@ -1,0 +1,55 @@
+#top_body{
+	background-color: black;
+	vertical-align: bottom;
+	font-family: "Algerian";
+	text-shadow: 1px 1px 2px black, 0 0 1em cyan, 0 0 0.2em blue;
+	color:white;
+	font-size: 48px;
+	text-align: center;
+		}		
+#navigation_body{
+	background: url("head.jpg");
+	font-family: "Arial";
+	color:white;
+	font-size: 16px;
+	vertical-align: middle;
+	text-align: center;
+		}	
+#navigationMenu li{
+	padding: 32px;
+	background:url("head.jpg");
+	display: inline;
+}	
+#content_body{
+	background: url("ContentBG.jpg");
+		}
+#content_body h1{
+	background-color: rgba(51, 255, 255, 0.7);
+	border-radius: 32px;
+	color:lime;
+	text-shadow: 1px 1px 2px black, 0 0 1em red, 0 0 0.2em blue;
+	text-align:center;
+	padding:10px;
+	font-size:32px;
+		}		
+#content_body p{
+	background-color: rgba(51, 255, 255, 0.5);;
+	border-radius: 32px;
+	color:white;
+	text-shadow: 1px 1px 2px black, 0 0 1em cyan, 0 0 0.2em blue;
+	text-align:justify;
+	padding:10px;
+	font-size: 28px;
+		}
+#bottom_body{
+
+		}		
+
+#menu {
+	display: inline;
+	font-family:Arial;
+	font-size: 20px;
+}
+
+
+
